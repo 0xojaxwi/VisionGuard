@@ -1,2 +1,2 @@
-# LocknPass
-A Simple Password Manager in C++ with QT (UI) &amp; MySQL (for database connections).
+# Face-Detection-System
+A detection system based on the opencv library for survillancing the people using CCTV Camera.
